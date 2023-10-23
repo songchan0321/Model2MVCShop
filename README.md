@@ -1,7 +1,7 @@
 # :zap:프로젝트 개요
 
 
-MVC2 모델을 바탕으로 만들어 둔 기존의 serlvet + jsp 방식의 프로젝트를 spring boot + react방식으로 전환하는 프로젝트입니다.
+Model2 MVC 쇼핑몰을 구현하였습니다.
 
 # :alarm_clock: 개발 기간
 
