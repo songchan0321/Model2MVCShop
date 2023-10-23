@@ -1,7 +1,7 @@
 # :zap:프로젝트 개요
 
 
-Model2 MVC 쇼핑몰을 구현하였습니다.
+JAVA Servlet + JSP기반 Model2 MVC 쇼핑몰을 구현하였습니다.
 
 # :alarm_clock: 개발 기간
 
