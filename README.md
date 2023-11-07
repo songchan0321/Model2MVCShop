@@ -6,7 +6,7 @@ JAVA + JSP기반 Model2 MVC 쇼핑몰을 구현하였습니다.
 # :alarm_clock: 개발 기간
 
 
-2023/08/03 ~ 2023/09/15
+2021/11/03 ~ 2022/01/13
 
 # :full_moon_with_face: 멤버 구성
 
